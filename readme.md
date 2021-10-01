@@ -1,5 +1,6 @@
 # ECE444-F2021-Lab3
 By: Shirley Shuocheng Zhang
+
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 ## Activity 1
