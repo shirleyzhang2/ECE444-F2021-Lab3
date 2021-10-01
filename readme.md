@@ -1,11 +1,12 @@
-# ECE444-F2021-Lab2
+# ECE444-F2021-Lab3
 By: Shirley Shuocheng Zhang
+This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 ## Activity 1
 ![image1](./images/docker1.PNG)
 
 ## Activity 2
-This repo is a clone of https://github.com/nelaturuk/education_pathways.
+
 ![image2](./images/docker2.PNG)
 
 ## Activity 3
